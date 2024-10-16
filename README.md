@@ -46,7 +46,7 @@ poetry install
 Isso criará automaticamente um ambiente virtual isolado.
 
 
-5. ** Configurar o Kernel do Jupyter Notebook**
+5. **Configurar o Kernel do Jupyter Notebook**
 
 Se você for usar Jupyter Notebook, instale o ipykernel:
 
