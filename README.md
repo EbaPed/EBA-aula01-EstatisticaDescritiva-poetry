@@ -14,11 +14,10 @@ Este repositório contém os arquivos e códigos necessários para a aula de Est
 
 1. **Clonar o Repositório:**
 
-No terminal, clone este repositório:
+No terminal, clone este repositório na pasta que deseja trabalhar:
 
 ```bash
-git clone https://github.com/EbaPed/EBA_aula01_EstatisticaDescritiva_poetry.git
-cd EBA_aula01_EstatisticaDescritiva
+git clone https://github.com/EbaPed/EBA-aula01-EstatisticaDescritiva-poetry.git
 ```
 
 2. **Configurar a versão do Python com Pyenv**
